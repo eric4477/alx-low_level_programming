@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - a function that execute the program
+ * Return: 0 (success)
+ */
 
 int main(void) 
 {
