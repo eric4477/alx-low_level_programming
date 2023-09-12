@@ -1,7 +1,5 @@
 #include <stdlib.h>
-	#include "dog.h"
-
-
+#include "dog.h"
 	/**
 	 * _strlen - returns the length of a string
 	 * @s: string to evaluate
@@ -24,7 +22,6 @@
 
 		return (i);
 	}
-
 
 	/**
 	 * *_strcpy - copies the string pointed to by src
@@ -103,3 +100,4 @@
 
 		return (dog);
 	}
+
