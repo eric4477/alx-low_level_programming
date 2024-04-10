@@ -13,6 +13,7 @@
  * Return: Index of the first occurrence of value in array, or -1 if not found
  */
 int search_algorithm(int *array, size_t size, int value);
+int binary_search(int *array, size_t size, int value);
 
 #endif /* SEARCH_ALGORITHM_H */
 
